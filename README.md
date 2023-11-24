@@ -13,7 +13,11 @@ Our second task will be to study if there is a difference in energy consumption/
 
 ## Tasks:
 ### Visualization
-* [ ] develop visualization method to account for different levels of granularity and metrics
+* [x] develop visualization method to account for different levels of granularity and metrics
+* [ ] develop a visualization method for city level granularity
+
+### Data consolidation
+* [ ] make a script/pipeline to consolidate all the different levels of emissions and energy spending (e.g. combine to residential, commercial, industry, vs on-road; gas vs electricity)
 
 ### Linear regression (data generation) model
 * [ ] develop a linear regression model
