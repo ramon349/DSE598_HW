@@ -1,6 +1,9 @@
 # DSE 598 Project: The City and County Energy Profiles
 by Jiwoong Jason Jeong and Ramon Luis Correa
 
+## Report Link
+https://docs.google.com/document/d/189XFKqNiZXqQjl3wN0tqcdFFMYT2xsSI9hTxdkwwmFI/edit?usp=sharing
+
 ## Introduction and context of the dataset:
 **City and County Energy Profiles (2016)**
 
