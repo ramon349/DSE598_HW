@@ -5,8 +5,7 @@ by Jiwoong Jason Jeong and Ramon Luis Correa
 https://docs.google.com/document/d/189XFKqNiZXqQjl3wN0tqcdFFMYT2xsSI9hTxdkwwmFI/edit?usp=sharing
 
 ## Presentation Link: 
-https://docs.google.com/presentation/d/1Amdqqe763rvqfvNadhblZ1UVXFsDXc5LuEhhCzWOESE/edit?usp=sharing
-
+https://docs.google.com/presentation/d/1OYbw8dQD9AdLE5NAwn-RRNF5hFfPuRIW7KEUm4NHEIM/edit?usp=sharing
 ## Figure Link: 
 https://docs.google.com/presentation/d/1OYbw8dQD9AdLE5NAwn-RRNF5hFfPuRIW7KEUm4NHEIM/edit?usp=sharing
 ## Introduction and context of the dataset:
