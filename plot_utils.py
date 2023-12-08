@@ -23,7 +23,7 @@ def convert_state_level(df, column):
   state_df = pd.DataFrame({'state_abbr': state_ids, column: columns})
   return state_df
 
-def make_map(df, column, level='state'):
+def make_map(df, column, level='state',style='YlGn'):
   """
   df: dataframe of the data with 'state_id', 'county_id' or 'city_id' - all in FIPS codes for visualization
   column: column to plot the values of 'population', 'doe_climate_zone', 'consumption (MWh)', etc.
@@ -66,7 +66,7 @@ def make_map(df, column, level='state'):
       data=df,
       columns=["{}_fips".format(level), column] if level == 'county' else ["state_abbr", column],
       key_on="feature.id",
-      fill_color="YlGn",
+      fill_color=style,
       fill_opacity=0.7,
       line_opacity=0.2,
       legend_name="{} {}".format(level, column),
